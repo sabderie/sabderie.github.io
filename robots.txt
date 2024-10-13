@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sabderie.github.io/sitemap.html.gz
+Sitemap: https://sabderie.github.io/app/sitemap.html.gz
+Sitemap: https://sabderie.github.io/assets/sitemap.html.gz
+Sitemap: https://sabderie.github.io/css/sitemap.html.gz
+Sitemap: https://sabderie.github.io/includes/sitemap.html.gz
+Sitemap: https://sabderie.github.io/item/sitemap.html.gz
+Sitemap: https://sabderie.github.io/src/sitemap.html.gz
